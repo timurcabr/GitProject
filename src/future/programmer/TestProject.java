@@ -1,9 +1,7 @@
 package future.programmer;
 
-public class Main {
-
+public class TestProject {
     public static void main(String[] args) {
-        // write your code here
-        //мы
+        System.out.println("Test Project");
     }
 }
